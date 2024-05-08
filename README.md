@@ -1,5 +1,7 @@
 # Lab 5 - Starter
 
+Name: Thanh Nghiep Trinh (no colab)
+
 [Explore](https://jayden789.github.io/Lab5_Starter/explore.html)
 
 

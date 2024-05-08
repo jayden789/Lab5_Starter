@@ -1,5 +1,7 @@
 # Lab 5 - Starter
 
+Thanh Nghiep Trinh
+
 [Explore](https://jayden789.github.io/Lab5_Starter/explore.html)
 
 
